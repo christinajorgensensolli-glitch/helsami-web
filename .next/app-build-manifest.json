@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/chunks/app/_not-found/page-f67a118d99ef6f8c.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/css/fffd3203a9d5de4f.css",
+      "static/chunks/904-46afc933c8a6ed2f.js",
+      "static/chunks/app/layout-0573686c879ea1c7.js"
+    ],
+    "/oppskrifter/[id]/page": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/chunks/app/oppskrifter/[id]/page-aeea5e70d7144c96.js"
+    ],
+    "/oppskrifter/page": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/chunks/648-9969a7b6faea43e6.js",
+      "static/chunks/145-5d0f7133f20e7ba6.js",
+      "static/chunks/app/oppskrifter/page-4eca5245fc944e01.js"
+    ],
+    "/treningsplaner/page": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/chunks/648-9969a7b6faea43e6.js",
+      "static/chunks/app/treningsplaner/page-8a952b7649611a75.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-1ea540f0e26c2248.js",
+      "static/chunks/fd9d1056-f11596a174a791a5.js",
+      "static/chunks/117-db9144b5406d6695.js",
+      "static/chunks/main-app-fb827906d546bca6.js",
+      "static/chunks/648-9969a7b6faea43e6.js",
+      "static/chunks/app/page-259e09f0844ed17b.js"
+    ]
+  }
+}

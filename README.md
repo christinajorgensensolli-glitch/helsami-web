@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29505301/README.md)
 # HelsAmi Web - Next.js App
 
 Fullstendig Next.js web-applikasjon for HelsAmi med 10 oppskrifter, Stripe-betaling og AI-bildegenerering.
